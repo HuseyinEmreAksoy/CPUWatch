@@ -1,2 +1,2 @@
-Implementing C program for watch the CPU values.
+Implementing C program for watching the CPU values.
 Note: Code works in Ubuntu!!
